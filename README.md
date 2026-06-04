@@ -4,7 +4,7 @@ My first Flutter application built using Flutter.
 
 ## Preview
 
-![App Screenshot](screenshots/app.png)
+![App Screenshot](screenshots/{7B8C35D9-7B1F-41E7-9C77-57C76C6C7BFB}.png)
 
 ## Features
 
