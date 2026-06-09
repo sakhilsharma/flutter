@@ -3,6 +3,7 @@
 My first Flutter application built using Flutter.
 
 ## Preview
+FIRST DAT---
 
 ![App Screenshot](screenshots/{7B8C35D9-7B1F-41E7-9C77-57C76C6C7BFB}.png)
 
@@ -12,6 +13,18 @@ My first Flutter application built using Flutter.
 - Beautiful UI
 - Gradient background
 - Flutter widgets practice
+
+DAY 2--
+![App Screenshot](assets/day2-1.png)
+![App Screenshot](assets/day2-2.png)
+![App Screenshot](assets/day2-3.png)
+## Features
+
+-3-Screen Flutter App
+-Navigation Practice Project
+-Google Nav Bar Integration
+-Beginner-level Dart Code
+-UI Improvement Exercise
 
 ## Getting Started
 
